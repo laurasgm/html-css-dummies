@@ -93,6 +93,11 @@ header  .subtitulo{
     height: auto;
 }
 
+.prueba{
+    clear: both;
+    text-align: bottom;
+}
+
 
 .descripcion{
     font-size: 24px;
